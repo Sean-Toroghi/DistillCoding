@@ -3,7 +3,8 @@ A depository of a distill version of coding/functions/methods/tricks/approaches 
 
 <h3>Table of contents</h3>
 
-<h4>Python - general</h4> [link](https://github.com/Sean-Toroghi/DistillCoding/blob/main/python_general.py)
+<h4>Python - general</h4> 
+[link](https://github.com/Sean-Toroghi/DistillCoding/blob/main/python_general.py)
 - itertools
 
 <h4>Python - Pandas; Numpy; Matplotlib; Seaborn</h4> [link](https://github.com/Sean-Toroghi/DistillCoding/blob/main/python_dataprocessing.py)
